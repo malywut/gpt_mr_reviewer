@@ -10,3 +10,6 @@ The default model used is text-davinci-003. The prompt used is "Analyze the foll
 
 ## Usage
 python mr_reviewer.py
+
+## About
+Original blog post with how this repo was created: https://medium.com/@mariealice.blete
